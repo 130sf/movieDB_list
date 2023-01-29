@@ -1,0 +1,8 @@
+.App {
+    display: flex;
+background-color: black;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
